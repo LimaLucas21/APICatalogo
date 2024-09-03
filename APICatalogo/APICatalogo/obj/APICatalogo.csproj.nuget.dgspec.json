@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lsousa\\Documents\\Estudos\\C#\\Web_api\\APICatalogo\\APICatalogo\\apicatalogo\\APICatalogo.csproj": {}
+    "C:\\Users\\lucas\\OneDrive\\Documentos\\Estudo\\WEB_API\\APICatalogo\\APICatalogo\\APICatalogo\\APICatalogo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lsousa\\Documents\\Estudos\\C#\\Web_api\\APICatalogo\\APICatalogo\\apicatalogo\\APICatalogo.csproj": {
+    "C:\\Users\\lucas\\OneDrive\\Documentos\\Estudo\\WEB_API\\APICatalogo\\APICatalogo\\APICatalogo\\APICatalogo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lsousa\\Documents\\Estudos\\C#\\Web_api\\APICatalogo\\APICatalogo\\apicatalogo\\APICatalogo.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\OneDrive\\Documentos\\Estudo\\WEB_API\\APICatalogo\\APICatalogo\\APICatalogo\\APICatalogo.csproj",
         "projectName": "APICatalogo",
-        "projectPath": "C:\\Users\\lsousa\\Documents\\Estudos\\C#\\Web_api\\APICatalogo\\APICatalogo\\apicatalogo\\APICatalogo.csproj",
-        "packagesPath": "C:\\Users\\lsousa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lsousa\\Documents\\Estudos\\C#\\Web_api\\APICatalogo\\APICatalogo\\apicatalogo\\obj\\",
+        "projectPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\Estudo\\WEB_API\\APICatalogo\\APICatalogo\\APICatalogo\\APICatalogo.csproj",
+        "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\Estudo\\WEB_API\\APICatalogo\\APICatalogo\\APICatalogo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\lsousa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -88,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

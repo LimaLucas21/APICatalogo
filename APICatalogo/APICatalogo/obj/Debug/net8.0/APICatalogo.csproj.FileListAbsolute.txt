@@ -129,3 +129,4 @@ C:\Users\lsousa\Documents\Estudos\C#\Web_api\APICatalogo\APICatalogo\APICatalogo
 C:\Users\lsousa\Documents\Estudos\C#\Web_api\APICatalogo\APICatalogo\APICatalogo\obj\Debug\net8.0\APICatalogo.pdb
 C:\Users\lsousa\Documents\Estudos\C#\Web_api\APICatalogo\APICatalogo\APICatalogo\obj\Debug\net8.0\APICatalogo.genruntimeconfig.cache
 C:\Users\lsousa\Documents\Estudos\C#\Web_api\APICatalogo\APICatalogo\APICatalogo\obj\Debug\net8.0\ref\APICatalogo.dll
+C:\Users\lucas\OneDrive\Documentos\Estudo\WEB_API\APICatalogo\APICatalogo\APICatalogo\obj\Debug\net8.0\APICatalogo.sourcelink.json

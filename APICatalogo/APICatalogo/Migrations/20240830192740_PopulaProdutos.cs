@@ -9,8 +9,6 @@ namespace APICatalogo.Migrations
         protected override void Up(MigrationBuilder mb)
         {
             mb.Sql("Insert into Produtos(Nome, Descricao, Preco,ImagemUrl, Estoque, DataCadastro, CategoriaId) Values('Coca-cola','Refrigerante de Cola 350 ml',5.45,'cocacola.jpg', 50, GETDATE(), 1)");
-            //mb.Sql("Insert into Produtos(Nome, ImagemUrl) Values('Lanches','Lanches.jpg')");
-            //mb.Sql("Insert into Produtos(Nome, ImagemUrl) Values('Sobremesas','Sobremesas.jpg')");
         }
 
         protected override void Down(MigrationBuilder mb)
